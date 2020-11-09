@@ -9,4 +9,4 @@
 # atom.workspace.observeTextEditors (editor) ->
 #   editor.onDidSave ->
 #     console.log "Saved! #{editor.getPath()}"
-print('hello world')
+print('I came to say hello')
